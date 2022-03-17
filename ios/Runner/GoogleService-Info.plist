@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>196923410803-o6rs706rfpgh7uq9ob1c53uoqt520an9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.196923410803-o6rs706rfpgh7uq9ob1c53uoqt520an9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBFtD1kfl85Y9ujcNtM6MGcXR1MQr6CybE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>196923410803</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.kabukabu</string>
+	<key>PROJECT_ID</key>
+	<string>kabukabu-b5c62</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kabukabu-b5c62.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:196923410803:ios:dab0db1346a1005fba9d06</string>
+	<key>DATABASE_URL</key>
+	<string>https://kabukabu-b5c62-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

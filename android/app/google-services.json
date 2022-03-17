@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "196923410803",
+    "firebase_url": "https://kabukabu-b5c62-default-rtdb.firebaseio.com",
+    "project_id": "kabukabu-b5c62",
+    "storage_bucket": "kabukabu-b5c62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196923410803:android:9897e871ef1e1511ba9d06",
+        "android_client_info": {
+          "package_name": "com.example.kabukabu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196923410803-9cfe1hj1b8mebj28ne2a2bgd6e51nrv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1aT2w4kCM8a7ecK3p4gP8uGghtTDiAQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196923410803-9cfe1hj1b8mebj28ne2a2bgd6e51nrv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
